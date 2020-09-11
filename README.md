@@ -1,2 +1,2 @@
 # rpc
-smol rpc client
+Simple RPC client, powered by tokio and discord_rpc_client.
