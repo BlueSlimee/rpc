@@ -21,12 +21,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3b9bc1d-d30e-4d5b-8b05-13e5532fda6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RPC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+    <list default="true" id="b3b9bc1d-d30e-4d5b-8b05-13e5532fda6a" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
@@ -113,8 +114,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599782127348</updated>
-      <workItem from="1599782128921" duration="10257000" />
+      <workItem from="1599782128921" duration="10565000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1599835538118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599835538118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,35 +142,57 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="146" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599791568204">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="146" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1599791568204" />
+    <state x="425" y="201" width="516" height="407" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599835690527">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="425" y="201" width="516" height="407" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1599835690527" />
     <state x="421" y="147" width="524" height="515" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599791139975">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="421" y="147" width="524" height="515" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1599791139975" />
-    <state width="1314" height="110" key="GridCell.Tab.0.bottom" timestamp="1599835249913">
+    <state width="1314" height="110" key="GridCell.Tab.0.bottom" timestamp="1599835478860">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1314" height="110" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1599835249913" />
-    <state width="1314" height="110" key="GridCell.Tab.0.center" timestamp="1599835249912">
+    <state width="1314" height="110" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1599835478860" />
+    <state width="1314" height="110" key="GridCell.Tab.0.center" timestamp="1599835478859">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1314" height="110" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1599835249912" />
-    <state width="1314" height="110" key="GridCell.Tab.0.left" timestamp="1599835249912">
+    <state width="1314" height="110" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1599835478859" />
+    <state width="1314" height="110" key="GridCell.Tab.0.left" timestamp="1599835478856">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1314" height="110" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1599835249912" />
-    <state width="1314" height="110" key="GridCell.Tab.0.right" timestamp="1599835249913">
+    <state width="1314" height="110" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1599835478856" />
+    <state width="1314" height="110" key="GridCell.Tab.0.right" timestamp="1599835478860">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1314" height="110" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1599835249913" />
+    <state width="1314" height="110" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1599835478860" />
+    <state x="283" y="133" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1599835647510">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="283" y="133" width="800" height="542" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1599835647510" />
     <state x="110" y="220" width="1156" height="355" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599792395397">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="110" y="220" width="1156" height="355" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1599792395397" />
+    <state x="492" y="313" width="392" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599835561385">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="492" y="313" width="392" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1599835561385" />
+    <state x="110" y="220" width="1156" height="355" key="dock-window-1" timestamp="1599835691407">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="110" y="220" width="1156" height="355" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1599835691407" />
+    <state x="492" y="309" width="381" height="190" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599835458090">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="492" y="309" width="381" height="190" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1366.741@0.27.1366.741" timestamp="1599835458090" />
   </component>
 </project>
